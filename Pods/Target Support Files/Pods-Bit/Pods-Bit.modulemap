@@ -1,0 +1,6 @@
+framework module Pods_Bit {
+  umbrella header "Pods-Bit-umbrella.h"
+
+  export *
+  module * { export * }
+}
